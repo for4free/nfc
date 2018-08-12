@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_000a_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>stu_systemDlg.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>stu_systemDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBZC" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAABAAAAAAAAAAAAAEAAAAgAAAAQE=</HashCode>
+      <FileName>BZC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGM" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAAAAAAAAABAAABAAAAAAAAAAAAAAAhAAAAAAgAA=</HashCode>
+      <FileName>GM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainInterface" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMgBBACCBAAAhAAAABAAAAAEAAAgAAAAAAACAAiAAwA=</HashCode>
+      <FileName>MainInterface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MD5" Collapsed="true">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACQEAkAAAAIAgAAACADAAAACAGAABAAACgAAAEAAA=</HashCode>
+      <FileName>MD5.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMscomm1" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AZkgERYByAPYGGVCAgACkAAA4AgBolAAhIUMVIgBMCY=</HashCode>
+      <FileName>mscomm1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStu_systemApp" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>stu_system.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStu_systemDlg" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAAEAAAAAIAAAABAABwAAAAAQAAQAAAAAAAAQBAA=</HashCode>
+      <FileName>stu_systemDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialog" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAyCkAQMCYAQgEDAIAgBSFACBDAUAgBAoQAAFABiA=</HashCode>
+      <FileName>c:\program files (x86)\microsoft visual studio 12.0\vc\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialogEx" Collapsed="true">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAACAAEAAAiAACCCBEBQAAAAAAEAIACCgQAAAAI=</HashCode>
+      <FileName>c:\program files (x86)\microsoft visual studio 12.0\vc\atlmfc\include\afxdialogex.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWnd" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>v977//bff7//b//96f/P/f/97/+e33f39uv7/d///7c=</HashCode>
+      <FileName>c:\program files (x86)\microsoft visual studio 12.0\vc\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinApp" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>57Zg4NJZMRYwEDOJuKSX1EtlESlJxcwkSSNipVAHtHc=</HashCode>
+      <FileName>c:\program files (x86)\microsoft visual studio 12.0\vc\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="byte" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>c:\program files (x86)\windows kits\8.1\include\shared\rpcndr.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="uint32" Collapsed="true">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MD5.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>插入请假信息</title>
+
+    <link href="css/style1.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript">
+        function display_alert()
+        {
+            alert("请假信息插入成功！")
+        }
+
+    </script>
+</head>
+
+<body class="login">
+
+<div class="login_m">
+    <div class="login_logo"><img src="images/logo.png" width="350"></div>
+    <div class="login_boder">
+        <div class="login_padding">
+            <form action="qjb.php" method="post">
+                <h2>学工号</h2>
+                <label>
+                    <input type="number" id="no" class="txt_input txt_input2" name="no">
+                </label>
+                <h2>开始时间</h2>
+                <label>
+                    <input type="datetime-local" name="start" id="start" class="txt_input">
+                </label>
+                <h2>结束时间</h2>
+                <label>
+                    <input type="datetime-local" name="end" id="end" class="txt_input">
+                </label>
+                <div class="rem_sub">
+                    <label>
+                        <input type="submit" class="sub_button" name="button" id="button" value="提交" style="opacity: 0.7;" onclick="display_alert()" >
+                    </label>
+                </div>
+            </form>
+        </div>
+    </div><!--login_boder end-->
+</div><!--login_m end-->
+
+<br />
+<br />
+</body>
+</html>
